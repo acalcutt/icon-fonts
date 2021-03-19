@@ -61,7 +61,8 @@
           "suitcase",
           "theatre",
           "theme_park",
-          "zoo"
+          "zoo",
+          "escape_game"
         ]
       }, {
         "pattern": {
@@ -187,6 +188,7 @@
           "railway",
           "rail_light",
           "rail_metro",
+		  "reservoir",
           "taxi",
           "toll_booth"
         ]
@@ -284,6 +286,7 @@
       "cemetery:cemetery",
       "library:library",
       "zoo:zoo",
+      "escape_game:escape_game",
       "stadium:stadium",
       "windmill",
       "square",
@@ -384,6 +387,7 @@
       "place_of_worship:place_of_worship",
       "rail_light:rail_light",
       "rail_metro:rail_metro",
+      "reservoir:reservoir",
       "soccer:soccer",
       "square-stroke:square-stroke",
       "square-fill:square",
