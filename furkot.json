@@ -18,12 +18,12 @@
     },
     "svgSpritePath": "svg/sprite",
     "sprite": [{
-      "name": "sprite-streets",
+      "name": "sprite",
       "size": [11, 15],
       "pixelRatio": [1, 2, 3],
       "pattern": {
         "fill": "#725a50",
-        "margin": 2,
+        "margin": 0,
         "backdrop": [{
           "name": "backdrop/shield",
           "fill": "#725a50"
