@@ -24,21 +24,12 @@
       "pattern": {
         "fill": "#725a50",
         "margin": 0,
-        "backdrop": [{
-          "name": "backdrop/shield",
-          "fill": "#725a50"
-        }, {
-          "name": "backdrop/background",
-          "fill": "#fff"
-        }]
+        "backdrop": []
       },
       "iconGroups": [{
         "pattern": {
           "fill": "#5d60be",
-          "backdrop": [{
-            "fill": "#5d60be"
-          }, {
-          }]
+          "backdrop": []
         },
         "icons": [
           "aquarium",
@@ -94,10 +85,7 @@
       }, {
         "pattern": {
           "fill": "#d97200",
-          "backdrop": [{
-            "fill": "#d97200"
-          }, {
-          }]
+          "backdrop": []
         },
         "icons": [
           "alcohol_shop",
@@ -114,10 +102,7 @@
       }, {
         "pattern": {
           "fill": "#76a723",
-          "backdrop": [{
-            "fill": "#76a723"
-          }, {
-          }]
+          "backdrop": []
         },
         "icons": [
           "american_football",
@@ -135,10 +120,7 @@
       }, {
         "pattern": {
           "fill": "#76a723",
-          "backdrop": [{
-            "fill": "#76a723"
-          }, {
-          }]
+          "backdrop": []
         },
         "icons": [
           "garden",
@@ -151,10 +133,7 @@
       }, {
         "pattern": {
           "fill": "#ba3827",
-          "backdrop": [{
-            "fill": "#ba3827"
-          }, {
-          }]
+          "backdrop": []
         },
         "icons": [
           "danger",
@@ -191,9 +170,7 @@
       }, {
         "pattern": {
           "fill": "#fff",
-          "backdrop": [{
-            "fill": "#4898ff"
-          }]
+          "backdrop": []
         },
         "icons": [
           "aerialway",
@@ -222,9 +199,7 @@
       }, {
         "pattern": {
           "fill": "#fff",
-          "backdrop": [{
-            "fill": "#725a50"
-          }]
+          "backdrop": []
         },
         "icons": [
           "alpine_hut",
